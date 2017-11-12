@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="toastred">#D9534F</color>
+    <color name="toastsuccess">#5BC0DE</color>
+
+
+    <color name="iconkoyuyesil">#34495e</color>
+    <color name="iconacikyesil">#5C7186</color>
+    <color name="gray">#b6b5b7</color>
+    <color name="white">#ffffff</color>
+
+    <color name="iconaciksari">#E2C32D</color>
+    <color name="iconkirmizi">#D33C23</color>
+
+    <color name="blueligth">#72E5FF</color>
+    <color name="blue">#36A9FF</color>
+    <color name="blueEnd">#0059AF</color>
+    <color name="green">#00D700</color>
+    <color name="greenEnd">#008700</color>
+    <color name="red">#D81300</color>
+    <color name="redEnd">#880000</color>
+    <color name="yellow">#FFA400</color>
+    <color name="yellowEnd">#AF5400</color>
+    <color name="darkGray">#808080</color>
+
+    <color name="grayEnd">#666567</color>
+    <color name="black">#000000</color>
+
+</resources>
